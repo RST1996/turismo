@@ -114,7 +114,7 @@
 								<li><a href="index.php">Home</a></li>
 								
 								<li><a class="active" href="#">Accomodation</a></li>
-								<li><a href="">Contact</a></li>
+								<li><a href="contact.php">Contact</a></li>
 								<div class="clearfix"> </div>
 							</ul>	
 						</div>	
@@ -135,6 +135,18 @@
 		</div>
 	</div>
 	<!-- //a-about -->
+	<!-- footer -->
+	<div class="footer">
+		<div class="container">
+			<div class="footer-grids">
+				<div class="clearfix"> </div>
+				<div class="copyright">
+				<p>© 2017  All Rights Reserved. Developed By Team Turismo Developers</p>
+			</div>
+			</div>
+			
+		</div>
+	</div>
     </div>    
   </body>
 </html>
