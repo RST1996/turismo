@@ -32,7 +32,7 @@
 			<div class="container">
 				<div class="logo">
 					<h1 style="font-family:Roboto;">
-						<a href="index.html">TOURISMO</a>
+						<a href="index.php">TOURISMO</a>
 					</h1>
 				</div>
 				<div class="top-nav">

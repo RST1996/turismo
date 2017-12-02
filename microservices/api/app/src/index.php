@@ -48,7 +48,8 @@ css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 							<ul class="nav navbar-nav">
 								<li><a class="active" href="index.php">Home</a></li>
 								<li><a href="#places">Places</a></li>
-								<li><a href="contact.php">Contact</a></li>
+								<li><a href="">Services</a></li>
+								<li><a href="">Contact</a></li>
 								<div class="clearfix"> </div>
 							</ul>	
 						</div>	
@@ -141,7 +142,7 @@ css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 							<img src="assets/images/udaipur.jpg" alt="" style="height:200px;">
 						</div>
 						<div class="more-bottom-grid-text">
-							<h5><a href="http://localhost/hack/place.php?place=Udaipur&lat=24.585445&lng=73.71247900000003">Udaipur</a></h5>
+							<h5>Udaipur</h5>
 							<p><strong>"City of Lakes," the "Venice of the East," the "Kashmir of Rajasthan," </strong><br>
 							Tourist point: city palace, Fateh Sagar Lake, Aquarium, Pichola Lake, Jag Mandir, Kesariyaji Temple, Monsoon Palace, Sukhadia Circle, Saheliyon-ki-Bari, Moti Magri, Gulab Bagh and Zoo, Sajjangarh biological park.</p>
 						</div>
@@ -153,7 +154,7 @@ css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 							<img src="assets/images/j1.jpg" alt="" style="height:200px">
 						</div>
 						<div class="more-bottom-grid-text">
-							<h5><a href="http://localhost/hack/place.php?place=Jaipur&lat=26.9124336&lng=75.78727090000007">Jaipur</a></h5>
+							<h5>Jaipur</h5>
 							<p><strong>Pink City</strong><br>
 							Tourist point: Amer Fort, City Palace, Jal Mahal, Diggi Palace, Hawa Mahal, Jaigarh Fort, Nahargarh Fort, Moti Dungri Fort, Rambagh Palace, Albert Hall Museum, City Palace, Jaipur Wax Museum, Nahargarh Fort, Sheesh Mahal, Nahargarh Fort</p>
 						</div>
@@ -165,7 +166,7 @@ css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 							<img src="assets/images/chittorgh.jpg" alt="" style="height:200px;">
 						</div>
 						<div class="more-bottom-grid-text">
-							<h5><a href="http://localhost/hack/place.php?place=Chittorgarh&lat=24.8887435&lng=74.62692160000006" >Chittorgarh</a></h5>
+							<h5>Chittorgarh</h5>
 							<p><strong> Former capital of the Sisodia Rajput Dynasty of Mewar.</strong><br>
 							 Tourist Points: Chittor Fort, Vijaya Stambha, Meera Temple,Kumbha Palace , Padmini Palace, Gaumukh Kund, Rana Ratan Mahal, Government Museum,Bhimlat Kund<br><br>
 						</div>
@@ -208,7 +209,7 @@ css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 			<div class="footer-grids">
 				<div class="clearfix"> </div>
 				<div class="copyright">
-				<p>© 2017  All Rights Reserved. Developed By Team Turismo Developers</p>
+				<p>© 2017  All Rights Reserved  </p>
 			</div>
 			</div>
 			
