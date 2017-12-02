@@ -19,7 +19,10 @@
 	type: "POST",
 	dataType: "json"
 	}).done(function(json) {
-		document.write(json);
+		for(x=0;x < json.length;x++)
+		{
+			document.write("Content:- " +json[x].content + "<br/>"+json[x].title + "<br/>"+json[x].id + "<hr/>");
+		}
 		alert("success");
 	}).fail(function(xhr, status, errorThrown) {
 	console.log("Error: " + errorThrown);
