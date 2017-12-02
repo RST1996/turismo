@@ -104,7 +104,7 @@
 			<div class="container">
 				<div class="logo">
 					<h1>
-						<a href="index.php"> TURISMO</a>
+						<a href="index.php">Rajastan Tourism</a>
 					</h1>
 				</div>
 				<div class="top-nav">
