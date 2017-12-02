@@ -48,8 +48,8 @@ css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 							<ul class="nav navbar-nav">
 								<li><a class="active" href="index.php">Home</a></li>
 								<li><a href="#places">Places</a></li>
-								<li><a href="">Services</a></li>
-								<li><a href="">Contact</a></li>
+					
+								<li><a href="contact.php">Contact</a></li>
 								<div class="clearfix"> </div>
 							</ul>	
 						</div>	
@@ -209,7 +209,7 @@ css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 			<div class="footer-grids">
 				<div class="clearfix"> </div>
 				<div class="copyright">
-				<p>© 2017  All Rights Reserved  </p>
+				<p>© 2017  All Rights Reserved. Developed By Team Turismo Developers  </p>
 			</div>
 			</div>
 			
