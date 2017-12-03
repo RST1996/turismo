@@ -36,7 +36,7 @@ css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 			<div class="container">
 				<div class="logo">
 					<h1>
-						<a href="index.php"> Rajastan Tourism</a>
+						<a href="index.php"> Rajasthan Tourism</a>
 					</h1>
 				</div>
 				<div class="top-nav">
